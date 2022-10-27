@@ -9,7 +9,11 @@
 - The results outlined the following temperatures for June and December respectively: 
 - June: 
 
+![June Temps](https://user-images.githubusercontent.com/111612130/198165704-6650e0ed-b3d4-46e4-b458-69f75754e991.png)
+
 - December: 
+
+![December Temps](https://user-images.githubusercontent.com/111612130/198165713-ef8099fd-067f-4881-b19b-9b55d4b7c68d.png)
 
 - As evidenced by the above charts:
 
